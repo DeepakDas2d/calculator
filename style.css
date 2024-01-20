@@ -9,7 +9,7 @@
  }
 
  .cal-container{
-   background-color: black;
+   background-color: rgba(0, 0, 0, 0.675);
    height: 55vh;
     width: 40vw;
     border-radius: 5px;
